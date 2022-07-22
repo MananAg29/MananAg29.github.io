@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: rgb(248, 145, 20);
+}
+
+.one , .two , .three{
+    text-align: center;
+}
+
+.three, .two{
+    margin-top: 50px;
+}
+
+body{
+    background-color: rgb(233, 238, 163);
+}
+
+textarea{
+    border: 2px solid rgb(248, 145, 20);
+    background-color: rgb(235, 239, 185);
+}
