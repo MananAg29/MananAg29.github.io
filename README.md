@@ -11,5 +11,5 @@ https://mananag29.github.io/Calculator/
 Website for Form Validation using jQuery
 https://mananag29.github.io/Form-Validation/
 
-Website for Copy to Clpiboard using jQuery
+Website for Copy to Clipboard using jQuery
 https://mananag29.github.io/Copy-To-Clipboard/
